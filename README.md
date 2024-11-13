@@ -25,7 +25,7 @@ Check out my [portfolio](https://sunnybedi990.github.io).
 - **3D Reconstruction using RGB and Depth Images:** Developed a 3D reconstruction model as part of my thesis, focusing on the accuracy and efficiency of the reconstruction process.
 - **AI-Driven Dino Game Using CNN:** Built an autonomous game player for the Chrome Dino game using CNN and reinforcement learning.
 - **Tutor Buddy:** Created a personalized tutoring system using LLMs like LLama3 and Gemini, incorporating algorithms for adaptive learning.
-- **RAG Application for Chatbots:** Designed a Retrieval-Augmented Generation system for chatbots, integrating FAISS for efficient data retrieval.
+- **RAG Application for Chatbots:** Designed a Retrieval-Augmented Generation system for chatbots, integrating FAISS for efficient data retrieval. [Check out the GitHub repository](https://github.com/sunnybedi990/RAG-with-LLM).
 - **Bank Loan Default Prediction:** Utilized various machine learning algorithms to predict the likelihood of loan defaults.
 - **Retail Rocket Recommender System:** Analyzed e-commerce behavioral data and improved product recommendations using item-based, user-based, and hybrid models.
 
